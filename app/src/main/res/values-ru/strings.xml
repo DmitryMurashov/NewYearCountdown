@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">New Year Countdown</string>
+    <string name="countdown_format">До нового %d года осталось:\nДней: %d\nЧасов: %d\nМинут:%d\nСекунд: %d</string>
+</resources>
